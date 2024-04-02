@@ -1,0 +1,21 @@
+Description
+------------
+
+- This assignment focuses on implementing memory management concepts,
+specifically translating logical addresses to physical
+addresses using a page/frame table.
+
+- In simpler terms, imagine I have a computer's memory
+represented as a set of pages and frames.
+The program I'll write will handle converting addresses
+used by the computer into actual physical locations in memory.
+
+- To do this, I'll create a table that maps logical page
+numbers to physical frame numbers. When the program receives
+a logical address, it will use this table to figure out
+where in memory that address corresponds to.
+
+- For example, if the program receives the logical
+address "0x3A7F", it will translate it to a physical
+address and then provide the corresponding
+page number and offset.
