@@ -1,14 +1,15 @@
 # OS-HW3
-This is the homework 3 from Nguyen Huu Tam Ton.
+_This is the homework 3 from Nguyen Huu Tam Ton._
 
 **Objective:**
-- The purpose of this assignment is to familiarize you with the principles of memory management and walk you through the development of a program that uses a page/frame table to convert logical addresses to physical addresses.
+_- The purpose of this assignment is to familiarize you with the principles of memory management and walk you through the development of a program that uses a page/frame table to convert logical addresses to physical addresses._
 
 **Intructions:**
-I have given specific instructions in the **Instruction.txt** file. Please read carefully to understand how to run the program.
+_I have given specific instructions in the_ **Instruction.txt** _file. Please read carefully to understand how to run the program._
 
 **Sample Usage**
-Suppose you want to translate the logical addresses 0x3A7F, 0xABCD, and 0x5678 to physical addresses:
+_Suppose you want to translate the logical addresses 0x3A7F, 0xABCD, and 0x5678 to physical addresses:_
+
 Enter logical addresses (ex: 0x3A7F) (enter 'q' to quit):
 > 0x3A7F
 Logical Address: 0x3A7F => Page Number: 0x0D, Offset: 0x7F
