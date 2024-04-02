@@ -18,4 +18,4 @@ Logical Address: 0xABCD => Page Number: 0x2B, Offset: 0xCD
 Logical Address: 0x5678 => Page Number: 0x15, Offset: 0x78
 > q
 
-**Thanks for reading carefully and for the details, please look carefully at file Description.txt and Instruction.txt**
+**Thanks for reading carefully and for the details, please look carefully at file _Description.txt_ and _Instruction.txt_**
